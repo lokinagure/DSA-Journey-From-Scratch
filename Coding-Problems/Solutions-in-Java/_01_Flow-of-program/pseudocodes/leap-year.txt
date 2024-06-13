@@ -1,0 +1,11 @@
+start
+
+take input year as integer
+
+    if( ( year % 4 == 0 && year % 100 != 0) || year % 400 == 0 )
+       then its leap year
+    else,
+        year is not a leap year
+
+// Explanation: if year divisible by 4 and not divisible by 100
+                    or if year is divisible by 400, then its leap year
