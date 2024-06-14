@@ -1,0 +1,13 @@
+// Take a number as input and print the multiplication table for it.
+
+start
+
+take a number "n" as input
+
+loop-> start with i = 1, end loop when i = 10;
+
+        print -> n * i
+        increment i by one,
+        end loop when it reaches above 10
+
+ end
