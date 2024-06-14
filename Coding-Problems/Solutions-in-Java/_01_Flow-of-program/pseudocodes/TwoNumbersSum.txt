@@ -1,0 +1,9 @@
+start
+
+take input of 2 numbers: a, b
+
+then sum = a + b
+
+print -> sum
+
+end
