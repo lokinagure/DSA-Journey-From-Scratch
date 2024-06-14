@@ -1,0 +1,21 @@
+start
+
+take two number as input,
+    input a, b
+
+// to find hcf
+    a <- first, b <- second;
+
+while b > 0
+    temp = b;
+    b = a % b;
+    a = temp;
+end while
+hcf <- a
+
+//to find lcm
+
+lcm <- (first * second) / hcf;
+
+print -> hcf;
+print -> lcm;
