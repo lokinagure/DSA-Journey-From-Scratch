@@ -1,0 +1,15 @@
+start
+
+Initialize a variable sum to 0.
+
+Start a loop that continues indefinitely.
+
+Take input from the user and store it in a variable input.
+
+If the input is 'x', break out of the loop.
+
+Convert the input to an integer and add it to sum.
+
+Print the value of sum.
+
+end
